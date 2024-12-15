@@ -1,32 +1,32 @@
-- name: Longest Word Game
+- name: Self Shelf
+  description: Social media app that allows users to make connections based on similar book, movie, and music interests
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://www.github.com
+  online: true
+
+- name: Art Classes in Tokyo (ACT)
+  description: Web application to connect teachers of art classes with prospective students
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://www.github.com
+  online: true
+
+- name: 
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
   github: https://www.github.com
   online: true
 
-- name: Movie Watchlist
+- name: Longest Word
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
   github: https://www.github.com
   online: true
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Yelp
+- name: National Landmarks
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
