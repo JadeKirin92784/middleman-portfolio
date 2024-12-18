@@ -12,23 +12,20 @@
   github: https://github.com/JadeKirin92784/art_classes
   online: true
 
-- name: National Landmarks
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
 - name: Longest Word
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
+  description: Web game to find the longest word given a set of letters
+  image: projects/longest_word.png
+  github: https://github.com/JadeKirin92784/rails-longest-word-game
+  online: false
 
-- name: 
-  description: Decent description of the app
+- name: Tool Lender
+  description: Program to lend out different tools to users
   image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  github: https://github.com/JadeKirin92784/Mason
+  online: false
+
+- name: National Parks Database
+  description: Descriptions of different national parks in the USA
+  image: projects/placeholder.png
+  github: https://github.com/JadeKirin92784/National-Parks-Database-Project
   online: false
