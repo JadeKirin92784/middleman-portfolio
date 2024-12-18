@@ -1,6 +1,6 @@
 - name: Self Shelf
   description: Social media app that allows users to make connections based on similar book, movie, and music interests
-  image: projects/placeholder.png
+  image: projects/masons_shelf.png
   url: https://www.google.com
   github: https://www.github.com
   online: true
@@ -12,7 +12,7 @@
   github: https://www.github.com
   online: true
 
-- name: 
+- name: National Landmarks
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
@@ -26,7 +26,7 @@
   github: https://www.github.com
   online: true
 
-- name: National Landmarks
+- name: 
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
