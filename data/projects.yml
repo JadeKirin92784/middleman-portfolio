@@ -1,31 +1,37 @@
-- name: Self Shelf
-  description: Social media app that allows users to make connections based on similar book, movie, and music interests
+- name: FlashCardQuest
+  description: (RubyonRails/Javascript/HTML) Flashcard app where users gain levels as they review flashcards (current project)
+  image: projects/knight.jpg
+  github: https://github.com/JadeKirin92784/FlashCardQuest
+  online: false
+
+- name: SelfShelf
+  description: (RubyonRails/Javascript/HTML) Social media app that allows users to make connections based on similar book, movie, and music interests
   image: projects/masons_shelf.png
   url: https://www.selfshelf.me/
   github: https://github.com/JadeKirin92784/SelfShelf
   online: true
 
 - name: Art Classes in Tokyo (ACT)
-  description: Web application to connect teachers of art classes with prospective students
+  description: (RubyonRails/Javascript/HTML) Web application to connect teachers of art classes with prospective students
   image: projects/ACT.png
   url: https://art-classes-22f38858df0a.herokuapp.com/
   github: https://github.com/JadeKirin92784/art_classes
   online: true
 
 - name: Longest Word
-  description: Web game to find the longest word given a set of letters
+  description: (RubyonRails/Javascript/HTML) Web game to find the longest word given a set of letters
   image: projects/longest_word.png
   github: https://github.com/JadeKirin92784/rails-longest-word-game
   online: false
 
 - name: Tool Lender
-  description: Program to lend out different tools to users
-  image: projects/placeholder.png
+  description: (Java/HTML) Program to lend out different tools to users
+  image: projects/tools.jpg
   github: https://github.com/JadeKirin92784/Mason
   online: false
 
 - name: National Parks Database
-  description: Descriptions of different national parks in the USA
-  image: projects/placeholder.png
+  description: (Java/HTML) Descriptions of different national parks in the USA
+  image: projects/national_park.jpg
   github: https://github.com/JadeKirin92784/National-Parks-Database-Project
   online: false
