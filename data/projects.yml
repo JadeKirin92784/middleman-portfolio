@@ -1,15 +1,15 @@
 - name: Self Shelf
   description: Social media app that allows users to make connections based on similar book, movie, and music interests
   image: projects/masons_shelf.png
-  url: https://www.google.com
-  github: https://www.github.com
+  url: https://www.selfshelf.me/
+  github: https://github.com/JadeKirin92784/SelfShelf
   online: true
 
 - name: Art Classes in Tokyo (ACT)
   description: Web application to connect teachers of art classes with prospective students
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  image: projects/ACT.png
+  url: https://art-classes-22f38858df0a.herokuapp.com/
+  github: https://github.com/JadeKirin92784/art_classes
   online: true
 
 - name: National Landmarks
